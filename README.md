@@ -1,3 +1,3 @@
-# redteam-rumble
+# 🛠️ redteam-rumble
 
-Initial structure for redteam-rumble.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
